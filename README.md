@@ -24,11 +24,6 @@ Nevertheless, there are some parts that are not neat.
 But now it seems that the game is in the shape of a bit.
 And it's not good to spend too much time on small personal projects, so I'll upload it to GitHub at this point.
 
-【Simple programming note】
-
-* https://ka373.blogspot.com/2020/02/simple-programming-note-wanasagashi.html
-
-
 Wana (罠) means trap in Japanese.
 
 There was a shepherd boy who raised sheep.
@@ -44,6 +39,10 @@ There are 5 stages, and you have to find a certain number of wanas to clear each
 If you click on an area that is not a Wana, the game will be over.
 
 Thank you for playing!
+
+【Simple programming note】
+
+* https://ka373.blogspot.com/2020/02/simple-programming-note-wanasagashi.html
 
 
 __________________________________________
@@ -64,11 +63,6 @@ __________________________________________
 
 それにしても、きれいではないところとか惜しい部分も残りました。でも一応少しはゲーム見たくはなったと思われるし、小さな個人プロジェクトに時間を使いすぎるのも良くないかと思い、この辺で公開します。
 
-【簡単なプログラミングノート】
-
-* https://ka373.blogspot.com/2020/02/wahasagashi.html
-
-
 Wanaは罠（わな）です。
 
 羊飼いの少年がいました。
@@ -82,6 +76,10 @@ Wanaを除去して羊を救いましょう！
 
 ステージは5つあり、各ステージをクリアするためには特定数のWanaを探す必要があります。
 Wanaではない場所をクリックすると、ゲームオーバーになります。
+
+【簡単なプログラミングノート】
+
+* https://ka373.blogspot.com/2020/02/wahasagashi.html
 
 
 __________________________________________
@@ -104,11 +102,6 @@ __________________________________________
 그렇다 해도 깔끔하지 않거나 아쉬운 점은 남습니다만, 꽤 많은 부분을 고쳤고,
 작은 개인 프로젝트에 너무 많은 시간을 쓰는 것도 좋지 않아서 이쯤에서 공개합니다.
 
-【간단한 프로그래밍 노트】
-
-* https://ka373.tistory.com/45
-
-
 Wana(罠)는 일본어로 함정을 의미합니다.
 
 양치기 소년이 있었습니다.
@@ -122,6 +115,10 @@ Wana들을 제거하고 양들을 구해주세요!
 
 스테이지는 5개가 있으며, 각 스테이지를 클리어하기 위해서는 특정 숫자의 Wana들을 찾아야 합니다.
 Wana가 아닌 곳을 클릭하면 게임 오버됩니다.
+
+【간단한 프로그래밍 노트】
+
+* https://ka373.tistory.com/45
 
 
 __________________________________________
