@@ -5,6 +5,11 @@ English, 日本語, and 한국어 order (depending on the number of speakers)
 
 
 __________________________________________
+【Brief structure description】
+* If you want to run the game immediately, download and unzip WANASAGASHI.zip and run the exe file.
+* Please see the DistributionFiles folder to see the distribution type.
+* If you want to see game code written in Python, see the PythonFileFolder folder.
+
 Thank you for visiting.
 
 Recently I conducted a study and the related paper was almost organized.
@@ -19,12 +24,12 @@ Nevertheless, there are some parts that are not neat.
 But now it seems that the game is in the shape of a bit.
 And it's not good to spend too much time on small personal projects, so I'll upload it to GitHub at this point.
 
-Simple programming note:
+【Simple programming note】
 
-https://ka373.blogspot.com/2020/02/simple-programming-note-wanasagashi.html
+* https://ka373.blogspot.com/2020/02/simple-programming-note-wanasagashi.html
 
 
-* Wana (罠) means trap in Japanese.
+■ Wana (罠) means trap in Japanese.
 
 There was a shepherd boy who raised sheep.
 One day, wolves attacked the sheep.
@@ -42,6 +47,11 @@ Thank you for playing!
 
 
 __________________________________________
+【簡単な構造説明】
+* すぐにゲームを実行してみたい方は、WANASAGASHI.zipをダウンロードしてそのなかのexeファイルを実行してください。
+* 配布される形態をご覧になりたい方はDistributionFilesフォルダをご覧ください。
+* Pythonで作られたゲームのコードをご覧になりたい方はPythonFileFolderフォルダをご覧ください。
+
 訪問していただき、有難うございます。
 
 最近、私は一つの研究を論文としてほぼ整理できました。
@@ -54,12 +64,12 @@ __________________________________________
 
 それにしても、きれいではないところとか惜しい部分も残りました。でも一応少しはゲーム見たくはなったと思われるし、小さな個人プロジェクトに時間を使いすぎるのも良くないかと思い、この辺で公開します。
 
-簡単なプログラミングノート：
+【簡単なプログラミングノート】
 
-https://ka373.blogspot.com/2020/02/wahasagashi.html
+* https://ka373.blogspot.com/2020/02/wahasagashi.html
 
 
-* Wanaは罠（わな）です。
+■ Wanaは罠（わな）です。
 
 羊飼いの少年がいました。
 ある日、狼が羊を攻撃しました。
@@ -75,6 +85,12 @@ Wanaではない場所をクリックすると、ゲームオーバーになり�
 
 
 __________________________________________
+【간략한 구조 설명】
+* 바로 게임을 실행해 보고 싶으시면 WANASAGASHI.zip을 받아서 압축을 푼 후 exe 파일을 실행하시면 됩니다.
+* 배포되는 형태를 보고 싶으시면 DistributionFiles 폴더를 보시기 바랍니다.
+* 파이썬으로 작성된 게임 코드를 보고 싶으시면 PythonFileFolder 폴더를 보시기 바랍니다.
+
+
 찾아주셔서 감사합니다.
 
 최근 저는 하나의 연구를 수행했고, 이것이 논문으로 거의 정리되었습니다.
@@ -88,12 +104,12 @@ __________________________________________
 그렇다 해도 깔끔하지 않거나 아쉬운 점은 남습니다만, 꽤 많은 부분을 고쳤고,
 작은 개인 프로젝트에 너무 많은 시간을 쓰는 것도 좋지 않아서 이쯤에서 공개합니다.
 
-간단한 프로그래밍 노트:
+【간단한 프로그래밍 노트】
 
-https://ka373.tistory.com/45
+* https://ka373.tistory.com/45
 
 
-* Wana(罠)는 일본어로 함정을 의미합니다.
+■ Wana(罠)는 일본어로 함정을 의미합니다.
 
 양치기 소년이 있었습니다.
 어느 날 늑대들이 양들을 공격하였습니다.
