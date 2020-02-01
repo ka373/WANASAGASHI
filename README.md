@@ -20,6 +20,7 @@ But now it seems that the game is in the shape of a bit.
 And it's not good to spend too much time on small personal projects, so I'll upload it to GitHub at this point.
 
 Simple programming note:
+
 https://ka373.blogspot.com/2020/02/simple-programming-note-wanasagashi.html
 
 
@@ -36,8 +37,6 @@ The Wanas are then covered with covers. You should find Wanas here.
 
 There are 5 stages, and you have to find a certain number of wanas to clear each stage.
 If you click on an area that is not a Wana, the game will be over.
-
-For a description of English, Japanese (日本語) and Korean (한국어), visit the creator's GitHub (https://github.com/ka373)!
 
 Thank you for playing!
 
@@ -56,6 +55,7 @@ __________________________________________
 それにしても、きれいではないところとか惜しい部分も残りました。でも一応少しはゲーム見たくはなったと思われるし、小さな個人プロジェクトに時間を使いすぎるのも良くないかと思い、この辺で公開します。
 
 簡単なプログラミングノート：
+
 https://ka373.blogspot.com/2020/02/wahasagashi.html
 
 
@@ -89,6 +89,7 @@ __________________________________________
 작은 개인 프로젝트에 너무 많은 시간을 쓰는 것도 좋지 않아서 이쯤에서 공개합니다.
 
 간단한 프로그래밍 노트:
+
 https://ka373.tistory.com/45
 
 
