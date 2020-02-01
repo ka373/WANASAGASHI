@@ -29,7 +29,7 @@ And it's not good to spend too much time on small personal projects, so I'll upl
 * https://ka373.blogspot.com/2020/02/simple-programming-note-wanasagashi.html
 
 
-■ Wana (罠) means trap in Japanese.
+Wana (罠) means trap in Japanese.
 
 There was a shepherd boy who raised sheep.
 One day, wolves attacked the sheep.
@@ -69,7 +69,7 @@ __________________________________________
 * https://ka373.blogspot.com/2020/02/wahasagashi.html
 
 
-■ Wanaは罠（わな）です。
+Wanaは罠（わな）です。
 
 羊飼いの少年がいました。
 ある日、狼が羊を攻撃しました。
@@ -109,7 +109,7 @@ __________________________________________
 * https://ka373.tistory.com/45
 
 
-■ Wana(罠)는 일본어로 함정을 의미합니다.
+Wana(罠)는 일본어로 함정을 의미합니다.
 
 양치기 소년이 있었습니다.
 어느 날 늑대들이 양들을 공격하였습니다.
