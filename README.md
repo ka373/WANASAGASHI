@@ -24,7 +24,7 @@ Nevertheless, there are some parts that are not neat.
 But now it seems that the game is in the shape of a bit.
 And it's not good to spend too much time on small personal projects, so I'll upload it to GitHub at this point.
 
-Wana (罠) means trap in Japanese.
+■ Wana (罠) means trap in Japanese.
 
 There was a shepherd boy who raised sheep.
 One day, wolves attacked the sheep.
@@ -63,7 +63,7 @@ __________________________________________
 
 それにしても、きれいではないところとか惜しい部分も残りました。でも一応少しはゲーム見たくはなったと思われるし、小さな個人プロジェクトに時間を使いすぎるのも良くないかと思い、この辺で公開します。
 
-Wanaは罠（わな）です。
+■ Wanaは罠（わな）です。
 
 羊飼いの少年がいました。
 ある日、狼が羊を攻撃しました。
@@ -102,7 +102,7 @@ __________________________________________
 그렇다 해도 깔끔하지 않거나 아쉬운 점은 남습니다만, 꽤 많은 부분을 고쳤고,
 작은 개인 프로젝트에 너무 많은 시간을 쓰는 것도 좋지 않아서 이쯤에서 공개합니다.
 
-Wana(罠)는 일본어로 함정을 의미합니다.
+■ Wana(罠)는 일본어로 함정을 의미합니다.
 
 양치기 소년이 있었습니다.
 어느 날 늑대들이 양들을 공격하였습니다.
